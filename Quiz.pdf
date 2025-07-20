@@ -1,0 +1,21 @@
+JavaScript Quiz: Questions and Answers
+1. What is the difference between let and var?
+Answer: let is block-scoped, while var is function-scoped.
+
+2. What will be the output of 5 + '5' in JavaScript?
+Answer: "55" (a string).
+
+3. Which operator is used for strict equality comparison?
+Answer: ===.
+
+4. What does the ternary operator do?
+Answer: It quickly chooses between two values based on a condition.
+
+5. Predict the output of a small code snippet with increment and decrement operators:
+
+let x = 5;
+x++;
+--x;
+console.log(x);
+
+Answer: 5.
